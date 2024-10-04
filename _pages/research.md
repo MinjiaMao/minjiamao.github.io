@@ -7,14 +7,12 @@ redirect_from:
   - /resume
 ---
 
-<!-- \* denotes equal contributions.  -->
-
 Interested Topics
 ------
 
 * Misinformation Detection
 * Large Language Model Applications 
-* Dark Sides of Large Language Model 
+* Dark Sides of Large Language Models 
 * Learning for Optimization
 
 Paper under Review
@@ -39,6 +37,3 @@ Publications
 * Wei, Y., **Mao, M.**, Zhao, X., Zou, J., & An, P. (2020). City metro network expansion with reinforcement learning. In Proceedings of the 26th **ACM SIGKDD** international conference on knowledge discovery & data mining (pp. 2646-2656). [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403315) [Code](https://github.com/weiyu123112/City-Metro-Network-Expansion-with-RL)
   
 * Fang, X., Che, S., **Mao, M.**, Zhang, H., Zhao, M., & Zhao, X. (2024). Bias of AI-generated content: an examination of news produced by large language models. **Scientific Reports**, 14(1), 5224. [Paper](https://www.nature.com/articles/s41598-024-55686-2) [Data](https://github.com/dalabudel/llmbias)
-  
-
-
