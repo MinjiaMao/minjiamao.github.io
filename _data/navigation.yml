@@ -22,6 +22,12 @@ main:
     
   - title: "Research"
     url: /research/
+
+  - title: "Presentations"
+    url: /presentation/
+  
+  - title: "Teaching"
+    url: /teaching2/
     
   # - title: "Guide"
   #   url: /markdown/

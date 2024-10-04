@@ -15,3 +15,4 @@ I'm interested in designing novel and rigorous machine learning algorithms and m
 * Methodologies: Reinforcement Learning, Transfer Learning, Statistics
 * Applications: Large Language Model, Optimization 
 
+Here is my [resume](https://drive.google.com/file/d/1uPWiF9Ihbb7yWYJ-LjB9K5dikoUaR2ZG/view?usp=drive_link). (Update in Oct. 2024)
