@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Minjia Mao - 毛敏加"
+title                    : "Minjia Mao - About Me"
 title_separator          : "-"
 name                     : &name "Minjia Mao"
 description              : &description "personal description"
