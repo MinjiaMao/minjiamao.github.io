@@ -20,11 +20,6 @@ New Community Cold-Start Recommendation: A Novel Large Language Model-based Meth
 
 * International Conference on Information Systems 2024, Bangkok, Thailand (*)
 
-A DTM-DiHyperGCN Joint Approach for Social Media Infodemic Early Prediction
-------
-
-* INFORMS Workshop on Data Science 2023, Phoenix, AZ (presenter but not author)
-
 City Metro Network Expansion with Reinforcement Learning
 ------
-ACM SIGKDD 2020, virtual
+* ACM SIGKDD 2020, virtual
