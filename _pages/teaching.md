@@ -15,9 +15,9 @@ Instructor
 
 Teaching Assistant
 ---
-* [MISY 641] Data Mining for Business Analytics, Fall 2022 - Spring 2025
+* [MISY 641] Data Mining for Business Analytics, Fall 2022 - Fall 2026
   * Instructing two lab classes
   * Instructing one class on prompt engineering and LLM agents
 
-* [FSAN 850] Financial Services Analytics Seminar, Fall 2025
+* [FSAN 850] Financial Services Analytics Seminar, Fall 2025, Fall 2026
   * Instructing one class on prompt engineering and LLM-based recommender systems
