@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-Instructor
+<!-- Instructor
 ---
 * [BUAD 449] Business Process Analysis, Spring 2025
   * This course focuses on structuring and formulating business problems as optimization and other operations research models and balancing important factors for business decisions. 
-  * Materials including linear programming concepts, simplex method, duality, sensitivity analysis, and convexity are covered.
+  * Materials including linear programming concepts, simplex method, duality, sensitivity analysis, and convexity are covered. -->
 
 Teaching Assistant
 ---
